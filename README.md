@@ -43,3 +43,9 @@
        z-index: 0;
      }
      ```
+
+
+     ...
+
+For more information on tsParticles, visit [tsParticles on GitHub](https://github.com/matteobruni/tsparticles).
+
