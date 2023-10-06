@@ -1,5 +1,8 @@
 # tsParticles Project with Rails
 
+You can clone the repo to test TsParticles.
+Or follow the instructions below.
+
 ## Setup
 
 1. **Add tsParticles to your HTML**:
