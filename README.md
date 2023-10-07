@@ -52,5 +52,7 @@ Or follow the instructions below.
 
      ...
 
+Thank you to @diogolsq for the importmap section.🎉
+
 For more information on tsParticles, visit [tsParticles on GitHub](https://github.com/matteobruni/tsparticles).
 
