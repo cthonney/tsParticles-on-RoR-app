@@ -5,14 +5,16 @@ Or follow the instructions below.
 
 ## Setup
 
-1. **Add tsParticles to your HTML**:
-   - In `app/views/layouts/application.html.erb`:
+1. **Add tsParticles**:
+   - In `config/importmap.rb`:
      ```erb
-     <head>
-       <!-- ... other head elements ... -->
-       <script src="https://cdn.jsdelivr.net/npm/tsparticles"></script>
-     </head>
+     pin "tsparticles", to: "https://cdn.jsdelivr.net/npm/tsparticles"
      ```
+   - In `app/javascript/application.js`:
+     ```erb
+     import "tsparticles";
+     ```
+
 
 2. **Stimulus Controller**:
    - Create a file `app/javascript/controllers/tsparticles_controller.js`:
